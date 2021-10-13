@@ -37,7 +37,7 @@ namespace Calculator      //Learn OOPS concept
         }
         public static void Main(string[] arg)
         {
-            Console.WriteLine("MonuSharma");
+            Console.WriteLine("Monus");
             Console.ReadLine();
             Calculator obj = new Calculator();
             obj.num1 = 10;
