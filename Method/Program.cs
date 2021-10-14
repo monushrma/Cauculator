@@ -20,7 +20,7 @@ namespace Method
         //Method with no argument and no return type
         static void Main(string[] arg)
         {
-            int a =20;
+            int a =10;
             int b = 200;
             Program max = new Program();
             int c = max.FindMax(a, b);

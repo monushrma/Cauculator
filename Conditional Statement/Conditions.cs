@@ -10,7 +10,7 @@ namespace Conditional_Statement
         int num2;
         int num3;
         int num4;
-        int num5;
+        
         int result;
 
         void Add()
