@@ -11,7 +11,7 @@ namespace Conditional_Statement
         int num3;
         int num4;
         
-        int result;
+         int result;
 
         void Add()
         {
