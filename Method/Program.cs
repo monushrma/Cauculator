@@ -21,7 +21,7 @@ namespace Method
         static void Main(string[] arg)
         {
             int a =20;
-            int b = 50;
+            int b = 200;
             Program max = new Program();
             int c = max.FindMax(a, b);
             Console.WriteLine("Max value is:"+c);
