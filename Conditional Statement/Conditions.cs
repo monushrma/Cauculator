@@ -9,19 +9,19 @@ namespace Conditional_Statement
         int num1;
         int num2;
         int num3;
-        int num4;
+        
         
          int result;
 
         void Add()
         {
-            result = (num1 + num2+num3+num4);
+            result = (num1 + num2+num3);
             Console.WriteLine(result);
             Console.ReadLine();
         }
         void Subtract()
         {
-            result = (num1 - num2+num3+num4);
+            result = (num1 - num2+num3);
             Console.WriteLine(result);
             Console.ReadLine();
 
